@@ -31,7 +31,7 @@ export default {
             ]
         }),
         tslint({
-            throwOnError: true
+            throwOnError: false
         }),
         builtins(),
         typescript({

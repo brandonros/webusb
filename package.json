@@ -40,6 +40,6 @@
     "@types/node": "^8.0.54",
     "@types/usb": "^1.5.1",
     "@types/w3c-web-usb": "^1.0.4",
-    "usb": "git+https://github.com/ivannkf/node-usb.git#cf3db7679713b840c1cdfb52ccd0103f417cac5b"
+    "usb": "git+https://github.com/brandonros/node-usb.git#6de02bf4bda990846a0b803d8db993c86e7ed025"
   }
 }
